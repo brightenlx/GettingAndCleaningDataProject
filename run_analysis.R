@@ -80,3 +80,5 @@ data_final = data %>%
 
 dim(data_final) #6 478
 write.table(data_final, file = "UCI HAR Dataset/result.txt", sep=" ", row.name=FALSE, quote = FALSE)
+
+
