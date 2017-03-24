@@ -1,10 +1,7 @@
-# GettingAndCleaningDataProject
+#How does "run_analysis.R" work
 
-===============================
-How does "run_analysis.R" work
+Xiang Li
 
-	        Xiang Li
-===============================
 The run_analysis.R conducts data cleaning for the samsung dataset 
 (access the dataset here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). 
 The goal of this script is to create two tidy datasets: "data" and "data_final". 
